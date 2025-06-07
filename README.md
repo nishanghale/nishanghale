@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishan Ghale</h1>
-<h3 align="center">Aspiring Cloud & Security Professional | IT Specialist</h3>
+<h3 align="center">IT Specialist</h3>
 
 <p align="center">
-🎓 Master's in Applied Information Technology (2024) <br/>
+🎓 Master's in Applied Information Technology, George Mason University <br/>
 💻 Passionate about Cloud, Cybersecurity & Infrastructure <br/>
 ✈️ Fun fact: I love traveling!
 </p>
@@ -16,7 +16,7 @@
 ### 🤝 Looking for Opportunities In
 - Cloud Engineer
 - DevOps Engineer
-- System/Infrastructure Engineer
+- Systems/Infrastructure Engineer
 
 ### 📫 How to Reach Me
 - **Email**: nghale99@gmail.com
@@ -38,6 +38,4 @@
 </p>
 
 ---
-
-> “The beautiful thing about learning is nobody can take it away from you.” – B.B. King
 
